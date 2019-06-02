@@ -13,9 +13,12 @@ class AboutActivity : AppCompatActivity() {
         var aboutText = findViewById<TextView>(R.id.aboutText)
 
         aboutText.text ="I decided to create this app because I love coffee.\n\n"+
-                "It is really useful for me to have a coffee counter to track, \nand control, the coffees I drink daily.\n\n"+
+                "It is really useful for me to have a coffee counter\n " +
+                "to track, and control, the coffees I drink daily.\n\n"+
                 "If you are a coffee addict like me, you got your app!\n\n"+
-                "Expect more updates soon, such as sharing your location with your friends, as we \"coffee junkies\" sometimes like to experience coffee in group.\n\n"+
+                "Expect more updates soon, such as sharing your location" +
+                "with your friends, as we \"coffee junkies\" sometimes\n" +
+                "like to experience coffee in group.\n\n\n\n"+
                 "Thank you for downloading!\n\n"+
                 "Pedro Loureiro"
     }
