@@ -23,5 +23,5 @@ Depois quíz o "mesmo" em Android..
 
 # Download da versão android
 
-https://play.google.com/store/apps/details?id=pt.antro.coffeeaddicts
 
+Link para o download da versão android: [CoffeeAddicts](https://play.google.com/stor/apps/details?id=pt.antro.coffeeaddicts)
