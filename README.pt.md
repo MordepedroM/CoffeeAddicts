@@ -1,5 +1,6 @@
 # CoffeeAddicts
 
+Translate: [English](https://github.com/MordepedroM/CoffeeAddicts/blob/master/README.pt.md)
 
 ## Contexto
 Coffee addicts ou adictos(viciados/dependentes) em café é uma aplicação
